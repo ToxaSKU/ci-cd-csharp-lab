@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Calculator calc = new Calculator();
+            Console.WriteLine("Лаба №6");
             Console.WriteLine(calc.Add(2, 3));
         }
     }
